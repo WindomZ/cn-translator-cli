@@ -1,14 +1,29 @@
 {
   "name": "cn-translator-cli",
-  "version": "0.0.1",
+  "version": "0.1.1",
+  "description": "Translator for Chinese command-line interfaces.",
+  "preferGlobal": true,
   "main": "./lib/tfc",
-  "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
-  },
   "bin": {
     "tfc": "./bin/tfc"
   },
-  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindomZ/cn-translator-cli.git"
+  },
+  "keywords": [
+    "translate",
+    "cli"
+  ],
+  "author": "WindomZ <git.windomz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindomZ/cn-translator-cli/issues"
+  },
+  "homepage": "https://github.com/WindomZ/cn-translator-cli#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "co": "^4.6.0",
