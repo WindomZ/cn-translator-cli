@@ -1,7 +1,7 @@
 # cn-translator-cli
 Translator for Chinese command-line interfaces
 
-![v0.1.1](https://img.shields.io/badge/version-v0.1.1-orange.svg)
+![v0.1.2](https://img.shields.io/badge/version-v0.1.2-orange.svg)
 ![status](https://img.shields.io/badge/status-beta-yellow.svg)
 
 Inspired by <[axetroy/translate-cli](https://github.com/axetroy/translate-cli)>
