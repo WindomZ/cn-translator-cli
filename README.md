@@ -9,7 +9,7 @@ Inspired by <[axetroy/translate-cli](https://github.com/axetroy/translate-cli)>
 ## Installation
 
 ```bash
-npm i -g cn-translator-cli
+npm install -g cn-translator-cli
 ```
 
 ## Usage
