@@ -11,12 +11,13 @@ Inspired by <[axetroy/translate-cli](https://github.com/axetroy/translate-cli)>
 ```bash
 npm i -g cn-translator-cli
 ```
-Waiting...
 
 ## Usage
 
+**tfc** is short for *Translator for Chinese*
+
 ```bash
-$ tfc -h # tfc is short for Translator for Chinese
+$ tfc -h
 
   Usage: tfc [options] [contents...]
 
