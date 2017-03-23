@@ -1,4 +1,6 @@
 # cn-translator-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/WindomZ/cn-translator-cli.svg)](https://greenkeeper.io/)
 Translator for Chinese command-line interfaces
 
 ![v0.1.2](https://img.shields.io/badge/version-v0.1.2-orange.svg)
